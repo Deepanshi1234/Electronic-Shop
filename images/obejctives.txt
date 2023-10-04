@@ -1,0 +1,10 @@
+
+Objectives
+
+The main objective of the project on Electronic Store is to manage the details of Product Category,Product Company, Customer, Payment. It manage all the information about Product, Order, payment, Product.
+
+Founctionality provided by Electronic Store are as follows:
+
+Provides the searching facilities based on various factors.Such as Product,Product Company, Customer, Payment.
+It tracks all the information of Product Category, Order, Customer etc.
+   Manage the information of Product Category, Product, Customer,Payment.
